@@ -76,6 +76,7 @@ The author makes no guarantee of identical results across all environments.
 2. Run:
 
 ```bash
+pip install efficientnet_pytorch
 python code_EfficientNet.py
 ```
 
