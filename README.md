@@ -1,6 +1,6 @@
 # Hotspot Detection in ArFi Lithography Using Deep Learning
 
-This repository contains code, photomask layout datasets, and results for predicting sub-50nm trench hotspots in ArF immersion (ArFi) lithography using machine learning, as presented in the PMJ2025 conference paper (Photomask Japan, SPIE).
+This repository contains code, photomask layout datasets, and results for predicting sub-50nm trench hotspots in ArF immersion (ArFi) lithography using machine learning, as presented in the [PMJ2025 conference paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13655/136550Z/Predicting-sub-50-nm-trench-hotspots-in-ArFi-lithography-for/10.1117/12.3070243.short) (Photomask Japan, SPIE).
 
 ---
 
