@@ -68,7 +68,7 @@ The author makes no guarantee of identical results across all environments.
 
 - Python 3.9+
 - PyTorch
-- [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
+- [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 
 ### Training
 
